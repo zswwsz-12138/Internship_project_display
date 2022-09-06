@@ -22,4 +22,3 @@ Code:
 1) u2net_video_seg.py & u2net_video_seg_mp.py: Script for semantic segmentation of webcam. Modified from https://github.com/xuebinqin/U-2-Net
  
 ![image](images/Semantic_Segmentation_U2Net_Mask.jpg)
-![image](images/Semantic_Segmentation_U2Net_Result.jpg)
