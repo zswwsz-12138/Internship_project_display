@@ -12,4 +12,5 @@ Code:
 Part 2:Hand Detection
 Code:
 1) gesture_2D.py & gesture_3D.py: Calculate the bending degree of the finger and judge the gesture through the angle between the two-dimensional and three-dimensional coordinates, and send it to the socket server. Modified from https://google.github.io/mediapipe/solutions/hands
-2) weapon.cs & bullet.cs: Those C# scripts mounted on the characters in the Unity project are responsible for serving as the server side of the socket, receiving the gesture status information sent by the python client, and firing bullets of different sizes.
+2) gesture_weapon.cs & gesture_bullet.cs: Those C# scripts mounted on the characters in the Unity project are responsible for serving as the server side of the socket, receiving the gesture status information sent by the python client, and firing bullets of different sizes.
+![image](images/Hand_Detection_Demo.gif)
